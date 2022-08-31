@@ -4,7 +4,7 @@ This package is just a wrapper for the `LanguageExt.Core.dll` provided by the [l
 
 # Getting Started
 
-Install the package via OpenUPM
+Install the package via OpenUPM.
 
 ```bash
 openupm add com.louthy.languageext
