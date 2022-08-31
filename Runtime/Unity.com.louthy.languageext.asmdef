@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}",
+    "name": "Unity.com.louthy.languageext",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
