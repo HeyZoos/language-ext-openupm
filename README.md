@@ -9,4 +9,4 @@ using LanguageExt;
 using static LanguageExt.Prelude;
 ```
 
-The follow along with the rest of the [documentation](https://github.com/louthy/language-ext#getting-started).
+Then follow along with the rest of the [documentation](https://github.com/louthy/language-ext#getting-started).
