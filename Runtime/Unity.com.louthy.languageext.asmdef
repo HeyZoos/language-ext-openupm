@@ -7,7 +7,11 @@
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
-        "LanguageExt.Core.dll"
+        "LanguageExt.Core.dll",
+        "System.Reactive.Core.dll",
+        "System.Reactive.Interfaces.dll",
+        "System.Reactive.Linq.dll",
+        "System.Reactive.PlatformServices.dll"
     ],
     "autoReferenced": false,
     "defineConstraints": [],
